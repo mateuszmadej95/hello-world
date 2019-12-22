@@ -4,6 +4,4 @@ Starting with git
 
 Just a readme file
 
-New line
-
-Another line
+I just deleted 2 unnecessary lines
